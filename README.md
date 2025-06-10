@@ -1,4 +1,4 @@
-# Netflix_FunctionalClone
+# Netflix_UI with tmdp
 
 A new Flutter project.
 
